@@ -1,0 +1,199 @@
+F:\MyFiles_YanaFiles_DONOTOUCH\Лаб_5\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\MyFiles_YanaFiles_DONOTOUCH\Лаб_5\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\MyFiles_YanaFiles_DONOTOUCH\Лаб_5\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\MyFiles_YanaFiles_DONOTOUCH\Лаб_5\SeleniumTests\SeleniumTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\MyFiles_YanaFiles_DONOTOUCH\Лаб_5\SeleniumTests\SeleniumTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\MyFiles_YanaFiles_DONOTOUCH\Лаб_5\SeleniumTests\SeleniumTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\MyFiles_YanaFiles_DONOTOUCH\Лаб_5\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.dll
+F:\MyFiles_YanaFiles_DONOTOUCH\Лаб_5\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.pdb
+F:\MyFiles_YanaFiles_DONOTOUCH\Лаб_5\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\MyFiles_YanaFiles_DONOTOUCH\Лаб_5\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\MyFiles_YanaFiles_DONOTOUCH\Лаб_5\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.dll
+F:\MyFiles_YanaFiles_DONOTOUCH\Лаб_5\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\MyFiles_YanaFiles_DONOTOUCH\Лаб_5\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\MyFiles_YanaFiles_DONOTOUCH\Лаб_5\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.xml
+F:\MyFiles_YanaFiles_DONOTOUCH\Лаб_5\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.csprojAssemblyReference.cache
+F:\MyFiles_YanaFiles_DONOTOUCH\Лаб_5\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.csproj.CoreCompileInputs.cache
+F:\MyFiles_YanaFiles_DONOTOUCH\Лаб_5\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.csproj.CopyComplete
+F:\MyFiles_YanaFiles_DONOTOUCH\Лаб_5\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.dll
+F:\MyFiles_YanaFiles_DONOTOUCH\Лаб_5\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.pdb
+C:\Users\Asus-PC\Desktop\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Asus-PC\Desktop\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Asus-PC\Desktop\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Asus-PC\Desktop\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.dll
+C:\Users\Asus-PC\Desktop\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.pdb
+C:\Users\Asus-PC\Desktop\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Asus-PC\Desktop\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Asus-PC\Desktop\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.dll
+C:\Users\Asus-PC\Desktop\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Asus-PC\Desktop\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Asus-PC\Desktop\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.xml
+C:\Users\Asus-PC\Desktop\SeleniumTests\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.csprojResolveAssemblyReference.cache
+C:\Users\Asus-PC\Desktop\SeleniumTests\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.dll
+C:\Users\Asus-PC\Desktop\SeleniumTests\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.pdb
+C:\Users\Sergei\Documents\НПО\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Sergei\Documents\НПО\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Sergei\Documents\НПО\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Sergei\Documents\НПО\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Sergei\Documents\НПО\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Sergei\Documents\НПО\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Sergei\Documents\НПО\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.dll
+C:\Users\Sergei\Documents\НПО\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.pdb
+C:\Users\Sergei\Documents\НПО\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Sergei\Documents\НПО\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Sergei\Documents\НПО\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.dll
+C:\Users\Sergei\Documents\НПО\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Sergei\Documents\НПО\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Sergei\Documents\НПО\SeleniumTests\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.xml
+C:\Users\Sergei\Documents\НПО\SeleniumTests\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.csprojResolveAssemblyReference.cache
+C:\Users\Sergei\Documents\НПО\SeleniumTests\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.csproj.CoreCompileInputs.cache
+C:\Users\Sergei\Documents\НПО\SeleniumTests\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.csproj.CopyComplete
+C:\Users\Sergei\Documents\НПО\SeleniumTests\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.dll
+C:\Users\Sergei\Documents\НПО\SeleniumTests\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.pdb
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.csprojResolveAssemblyReference.cache
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.csproj.CoreCompileInputs.cache
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.dll
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.pdb
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.dll
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.pdb
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.dll
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.xml
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\bin\Debug\nunit.framework.dll
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\bin\Debug\nunit.framework.pdb
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\bin\Debug\nunit.framework.xml
+C:\3курс\3курс1сем\НПО\Лабы\Лаба5\SeleniumTests\SeleniumTests\bin\Debug\wires-0.6.0-win.exe
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\wires-0.6.0-win.exe
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.pdb
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\nunit.framework.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\nunit.framework.pdb
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\nunit.framework.xml
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.xml
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.csprojAssemblyReference.cache
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.csproj.CopyComplete
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.pdb
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.Support.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.Support.xml
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.Runtime.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.Owin.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\Newtonsoft.Json.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\Owin.dll
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.Owin.xml
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\bin\Debug\Newtonsoft.Json.xml
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.Properties.Resources.resources
+C:\Универ\3курс2сем\ТВОП\Лабы\Блок 4\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.csproj.GenerateResource.cache
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\wires-0.6.0-win.exe
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.pdb
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.Runtime.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.Owin.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\Newtonsoft.Json.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\nunit.framework.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\Owin.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.Support.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.Owin.xml
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\Newtonsoft.Json.xml
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\nunit.framework.pdb
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\nunit.framework.xml
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.xml
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\bin\Debug\WebDriver.Support.xml
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.Properties.Resources.resources
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.csproj.GenerateResource.cache
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.csproj.CopyComplete
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.dll
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.pdb
+C:\Programming\TVOP\04\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.csprojAssemblyReference.cache
